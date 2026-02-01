@@ -6,7 +6,7 @@ function App() {
 
   return (
     <h1 className='p-10 bg-sky-200 text-center text-3xl font-bold underline'>
-      start working new project
+      start working new project from feb 2026
     </h1>
   )
 }
